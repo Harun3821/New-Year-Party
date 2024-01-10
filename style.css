@@ -305,14 +305,13 @@ footer{
     height: 40vh;
     font-size: 10px;
     color: #cccccc;
-   line-height: 30px;
-   padding: 40px 30px 0;
+    line-height: 30px;
+    padding: 40px 30px 0;
 }
 .icon img{
    width: 20px;
    margin: 70px 10px ;
 }
 .texxxtt{
-    margin-top:150px;
+    margin-top:100px;
 }
- 
